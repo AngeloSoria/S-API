@@ -1,7 +1,7 @@
-local whitelist = {}
 
-function whitelist:GetWhitelist()
-    print("yes")
-end
-
-return whitelist
+--// UserIDs
+return {
+    1,
+    2,
+    75376634
+}
