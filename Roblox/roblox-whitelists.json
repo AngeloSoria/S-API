@@ -1,3 +1,5 @@
 {
-    "whitelists": [1, 2, 75376634]
+    "whitelists": {
+        "headtags-v1": [1, 2, 75376634]
+    }
 }
